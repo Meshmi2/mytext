@@ -1,0 +1,2 @@
+/Users/massimotrovati/Projects/mytext/packages/Xam.Plugin.Connectivity.3.0.2/lib/MonoAndroid10/Plugin.Connectivity.dll
+/Users/massimotrovati/Projects/mytext/packages/Plugin.Share.7.0.1/lib/MonoAndroid10/Plugin.Share.dll
